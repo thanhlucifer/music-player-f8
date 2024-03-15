@@ -54,29 +54,36 @@ const app = {
             img: "./assets/img/1329828.jpg"
         },
         {
-            name: "",
-            singer: "",
-            path: "music-player/assets/music/yt1s.com - Homura 炎   LiSAKANENGROMAJI LYRICS  Demon Slayer the movie Mugen Train theme.mp3",
-            img: ""
+            name: "Homura",
+            singer: "LiSA",
+            path: "./assets/music/yt1s.com - Homura 炎   LiSAKANENGROMAJI LYRICS  Demon Slayer the movie Mugen Train theme.mp3",
+            img: "./assets/img/1329839.jpg"
         },
         {
-            name: "",
-            singer: "",
-            path: "",
-            img: ""
+            name: "Shirogane",
+            singer: "LiSA",
+            path: "./assets/music/yt1s.com - Kimetsu no Yaiba  Mugen Resshahen Ending  LiSA  Shirogane 白銀 LyricsKanRomEng.mp3",
+            img: "./assets/img/1329912.jpg"
         },
         {
-            name: "",
-            singer: "",
-            path: "",
-            img: ""
+            name: "Yuukaku",
+            singer: "LiSA",
+            path: "./assets/music/yt1s.com - Kimetsu no Yaiba Yuukaku  hen Ending  Aimer  Asa ga Kuru 朝が来る LyricsKanRomEng.mp3",
+            img: "./assets/img/1329915.jpg"
         },
         {
-            name: "",
-            singer: "",
-            path: "",
-            img: ""
+            name: "CLiPテレビアニメ鬼滅の刃無限列車編",
+            singer: "LiSA",
+            path: "./assets/music/yt1s.com - LiSA 明け星 MUSiC CLiPテレビアニメ鬼滅の刃無限列車編 オープニングテーマ.mp3",
+            img: "./assets/img/1329918.jpg"
         },
+        {
+            name: "Nezuko",
+            singer: "EP11",
+            path: "./assets/music/yt1s.com - Nezuko Theme with Lyrics  Demon Slayer S3 EP11  Full Soundtrack HQ.mp3",
+            img: "./assets/img/1343620.jpg"
+        },
+
 
     ],
 
